@@ -1,0 +1,17 @@
+module.exports.commonService = require('./common.service');
+module.exports.authService = require('./auth.service');
+module.exports.emailService = require('./email.service');
+module.exports.tokenService = require('./token.service');
+module.exports.userService = require('./user.service');
+module.exports.leaveService = require('./leave.service');
+module.exports.retakeAssessmentService = require('./retake.assessment.service');
+module.exports.summerAssessmentService = require('./summer.assessment.service');
+module.exports.subjectRepetitionService = require('./subject.repetition.service');
+module.exports.scholarshipService = require('./scholarship.service');
+module.exports.othersService = require('./others.service');
+module.exports.dashboardService = require('./dashboard.service');
+module.exports.sessionService = require('./session.service');
+module.exports.coursesService = require('./courses.service');
+module.exports.enrollService = require('./enroll.service');
+module.exports.instructorService = require('./instructor.service');
+module.exports.inscoursesService = require('./inscourses.service');
